@@ -5,7 +5,7 @@
 #     \_/ \__,_|_|  |_|\__,_|_.__/|_|\___|___/
 #
 
-ETHER_ADDR = 0x33C425D7E08aa105a4520f78b750b30AC6FF85CD
+ETHER_ADDR = 0x421c82B3C230f94B8C8f08a849D34cb9ca4602D3
 
 # Docker container resource limits
 MEMORY = "4g"
